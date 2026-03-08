@@ -8,7 +8,7 @@
 ---
 
 
-In this project, I will demonstrate on how to build a RAG API from scratch. I are doing this project to learn how ollama works ,how to build an API and run it locally.
+In this project, I will demonstrate on how to build a RAG API from scratch. I did this project to learn how ollama works ,how to build an API and run it locally.
 
 
 ### Key tools and concepts
